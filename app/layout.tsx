@@ -7,8 +7,8 @@ import { getBuildConfig } from "./config/build";
 const buildConfig = getBuildConfig();
 
 export const metadata = {
-  title: "NanYiNet - ChatGPT",
-  description: "NanYiNet - ChatGPT Chat Bot www.nanyinet.com.",
+  title: "NanYiNet - ChatGPT - 南京讯至网络科技有限公司",
+  description: "NanYiNet - ChatGPT Chat Bot www.nanyinet.com. Copyright © 2023 南京讯至网络科技有限公司 All right reserved.",
   viewport: {
     width: "device-width",
     initialScale: 1,
