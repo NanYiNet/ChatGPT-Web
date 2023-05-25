@@ -121,7 +121,10 @@ export function SideBar(props: { className?: string }) {
       <div className={styles["sidebar-header"]}>
         <div className={styles["sidebar-title"]}>NanYiNet - ChatGPT</div>
         <div className={styles["sidebar-sub-title"]}>
-          NanYiNet - ChatGPT Chat Bot www.nanyinet.com.
+          NanYiNet - ChatGPT Chat Bot
+        </div>
+        <div className={styles["sidebar-sub-title"]}>
+          Copyright © 2023 南京讯至网络科技有限公司 All right reserved.
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
