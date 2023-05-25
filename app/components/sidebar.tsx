@@ -127,14 +127,10 @@ export function SideBar(props: { className?: string }) {
           如使用中遇到问题请联系QQ：2322796106
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          <p>
-    <a href="https://beian.miit.gov.cn/" target="_blank"  rel="nofollow"><img src="https://www.nanyinet.com/wp-content/themes/zibll/img/icp.png" style="height: 2em; ">&nbsp;备案号：苏ICP备19049269号-3</a>
-  </p>
-            <a href="https://www.aliyun.com/" target="_blank"  rel="nofollow"><img src="https://www.nanyinet.com/Nathan_Static/static/images/qcloud.svg" alt="NanYiNet" style="height: 1.0em;"></a>
-  <a href="https://www.aliyun.com/" target="_blank"  rel="nofollow"><img src="https://www.nanyinet.com/Nathan_Static/static/images/aliyun.png" alt="NanYiNet" style="height: 1.0em; "></a>
-  <a href="https://bt.cn/" target="_blank"  rel="nofollow"><img src="https://www.nanyinet.com/Nathan_Static/static/images/bt.png" alt="NanYiNet" style="height: 1.0em; "></a>
-    
-          <b>Copyright © 2023 南京讯至网络科技有限公司 All right reserved.</b>
+          备案号：苏ICP备19049269号-3
+        </div>
+        <div className={styles["sidebar-sub-title"]}>
+          Copyright © 2023 南京讯至网络科技有限公司 All right reserved.
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
