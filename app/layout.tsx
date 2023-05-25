@@ -19,7 +19,7 @@ export const metadata = {
     { media: "(prefers-color-scheme: dark)", color: "#151515" },
   ],
   appleWebApp: {
-    title: "NanYiNet - ChatGPT",
+    title: "NanYiNet - ChatGPT - 南京讯至网络科技有限公司",
     statusBarStyle: "default",
   },
 };
