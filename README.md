@@ -13,9 +13,9 @@ One-Click to deploy well-designed ChatGPT web UI on Vercel.
 
 [演示](https://chatgpt.nanyinet.com/) 
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/NanYiNet/ChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE&project-name=chatgpt-next-web&repository-name=ChatGPT-Next-Web)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/NanYiNet/ChatGPT-Web&env=OPENAI_API_KEY&env=CODE&project-name=chatgpt-next-web&repository-name=Nathan-ChatGPT-Web)
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/NanYiNet/ChatGPT-Next-Web)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/NanYiNet/ChatGPT-Web)
 
 ![cover](./docs/images/cover.png)
 
